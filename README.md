@@ -1,4 +1,4 @@
----
+
 
 ## 👩‍🎓 Student Information
 
@@ -7,7 +7,7 @@
 * **Course:** E-Commerce and Web Application
 * **Institution:** University of Lay Adventists of Kigali (UNILAK)
 
----
+
 
 
 # 🛍️ UrbanStyle - Fashion E-Commerce Platform
